@@ -1,0 +1,97 @@
+body {
+    background-color: #c39969;
+    font-size: large;
+    
+    }
+table, td {
+    border: 1px  solid black;
+    background-color: #d4c1a0;
+}
+p {
+    text-indent: 2em;
+    text-align: justify;
+}
+.submit-button {
+    background: #2d2924;
+    color: white;
+    border: #c39969;
+}
+.sq {
+    font-size: x-small;
+    text-align: justify;
+    font-style: italic;
+}
+.Page {
+    text-align: center;
+}
+.d {
+    color: blue;
+}
+.title {
+    text-align: center;
+}
+a {
+    display: inline-block;
+    background-color: #2d2924;
+    padding: 10px 20px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+
+}
+nav {
+    background-color: #2d2924;
+    padding: 1px 0;
+
+}
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+nav ul li {
+    display: inline;
+
+}
+nav select {
+    background-color: #2d2924;
+    color: white;
+    padding: 5px;
+    border: none;
+    border-radius: 10px;
+
+}
+#dog {
+    text-align: center;
+}
+
+#gsd {
+    text-align: center;
+}
+#selections {
+    text-align: center;
+}
+#research {
+    font-family: 'Times New Roman', Times, serif;
+}
+#author {
+    text-align: center;
+    font-style: normal;
+}
+#contact {
+    margin: auto;
+    width: 50%;
+
+}
+#comments {
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+#Arlo {
+    display: inline;
+    margin: 5px;
+}
+#Zoey {
+    display: inline;
+    margin: 5px;    
+}
